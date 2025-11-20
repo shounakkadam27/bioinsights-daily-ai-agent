@@ -66,23 +66,23 @@ Custom intelligence briefs for a specific disease or technology
 These extended capabilities make BioInsights Daily useful not only for daily updates, but also for deeper research exploration, literature review, academic assistance, and industry-level analysis.
 
 ## Details here:
-👉 ./methodology/how_it_works.md
+👉 methodology/how_it_works.md
 
 ## 📘 Sample Output
 
 See a full example report:
-👉 ./samples/sample_report.md
+👉 samples/sample_report.md 
 
 ## 🔗 Try the AI Agent
 
 👉 Use BioInsights Daily
 
-(Replace this with your GPT agent URL)
+https://chatgpt.com/g/g-6919b5b2b9688191aa44d5f6c209e8a6-bioinsights-daily/c/6919bd4a-7830-8324-b4b1-cf0992fe101a
 
 ## 📚 Sources
 
 The agent monitors highly trusted, peer-reviewed and preprint sources:
-👉 ./sources/source_list.md
+👉 sources/source_list.md
 
 ## 🧬 Who This Is For
 
