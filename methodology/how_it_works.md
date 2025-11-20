@@ -1,6 +1,6 @@
 # How BioInsights Daily Works
 
-BioInsights Daily is a domain-specific AI agent designed to function like a biotechnology research analyst.
+BioInsights Daily is a domain-specific AI agent designed to function like a biotechnology research analyst and give you up-to-date news on the latest discoveries in the biotechnology sector
 
 ## 1. Source Monitoring
 The agent scans trusted scientific sources:
